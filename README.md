@@ -1,6 +1,8 @@
 ![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/full_front_back.jpg)
 <h1 align="center">Hi 👋, I'm Viorel</h1>
 <h3  align="center">A web developer and UI/UX designer</h3>
+<br>
+<br>
 
   
   <img align="right" src="https://cdn.dribbble.com/users/878726/screenshots/4933914/media/6bd983bc64942f1810b2d9f4db99810c.gif" alt="coding" width="300" height="300"/>
